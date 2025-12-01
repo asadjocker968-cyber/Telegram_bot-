@@ -17,9 +17,9 @@ import pyautogui
 import subprocess
 
 # Replace with Telegram bot API key
-BOT_API_KEY = ""
+BOT_API_KEY = "8192551934:AAHvtq67d_HNdN5P4PsGzcjVl5j1kkBzFgc"
 # Replace with your telegram user id
-telegram_user_id = 0
+telegram_user_id = 7938676762
 
 bot = telebot.TeleBot(BOT_API_KEY)
 
