@@ -1,4 +1,2 @@
 pyTelegramBotAPI
-opencv-python
-pyautogui
 requests
