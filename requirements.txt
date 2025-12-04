@@ -1,4 +1,7 @@
-pyTelegramBotAPI
-flask 
-gunicorn
-requests
+
+pyTelegramBotAPI==4.12.0
+opencv-python-headless
+pyautogui==0.9.54
+pynput==1.7.6
+psutil==5.9.5
+cryptography==41.0.4
